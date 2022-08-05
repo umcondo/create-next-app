@@ -1,0 +1,5 @@
+// 바벨설정
+{
+  "presets": ["next/babel"],
+  "plugins": []
+}
