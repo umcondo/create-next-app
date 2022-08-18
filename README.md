@@ -29,3 +29,11 @@ $ npm run dev
 $ npm run build
 $ npm run deploy
 ```
+
+## Test
+
+- Jest
+- npm jest
+
+- 유닛 테스트 > 코드상으로 기능을 점검
+- E2E 테스트 > 실제 동작을 바탕으로 기능을 점검
